@@ -1,0 +1,24 @@
+VISA:
+	Card Number: 4111111111111111
+	Exp: 12/25
+	CVV: 111
+
+
+
+Mastercard:
+	Card Number: 5111111111111111
+	Exp: 12/25
+	CVV: 111
+
+
+
+American Express:
+	Card Number: 371111111111111
+	Exp: 12/25
+	CVV: 111
+
+
+
+Mobile OTP: 
+	111111 
+	123456
